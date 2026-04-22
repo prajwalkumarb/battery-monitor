@@ -1,4 +1,4 @@
 psutil
 winotify
-pystray
 pillow
+pywin32
